@@ -2,12 +2,13 @@ package classic
 
 // algortihm explanation:
 // https://www.nayuki.io/page/next-lexicographical-permutation-algorithm
+//
+// possible to verify the solution at:
+// // https: //leetcode.com/problems/next-permutation/description/
 
 import (
 	"sort"
 )
-
-// https: //leetcode.com/problems/next-permutation/description/
 
 // creates next (lexicographically) permutation in place.
 // If this is already last permutation, return false.
